@@ -16,3 +16,11 @@
 ```
 
 ---
+
+## Section 02 - CSS
+
+- [Source](./section-02/index.html)
+- [CodePen](https://codepen.io/snijqlte-the-bold/pen/ogbaaab)
+- `link:css` 可快速生成 `<link rel='stylesheet' href='style.css'>`
+- `lorem20` 生成 20 個單字 (亂字)
+- 擬態選擇器 `a:hover` `a:active`
