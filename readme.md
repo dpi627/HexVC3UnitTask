@@ -24,3 +24,14 @@
 - `link:css` 可快速生成 `<link rel='stylesheet' href='style.css'>`
 - `lorem20` 生成 20 個單字 (亂字)
 - 擬態選擇器 `a:hover` `a:active`
+
+---
+
+## Section 03 - GitHub
+
+- 可利用 GitHub 作為 remote git server
+- GitHub Page 可於 Settings 設定，指定一個分支
+- 透過 workflow 可將分支發布為靜態網頁
+- 建立章節分支 `section-03` 並 [部署網頁](https://dpi627.github.io/HexVC3UnitTask/)
+
+---
