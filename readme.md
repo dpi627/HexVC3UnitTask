@@ -35,3 +35,13 @@
 - 建立章節分支 `section-03` 並 [部署網頁](https://dpi627.github.io/HexVC3UnitTask/)
 
 ---
+
+## Section 04 - CSS & HTML
+
+- 容器是網頁常見概念，例如 `div` `h2` `p` 都是
+- 網頁瀏覽器本身有預設樣式去選染標籤，每種瀏覽器可能不同
+- 可搜尋網路 `css reset`，有多種版本，旨在清除瀏覽器預設樣式
+- 區塊元素等同 `display: block;`，會佔滿整行，例如 `h1` `div` `li` `p`
+- `w30` = `width: 30px;`、`h300` = `height: 300px;`
+- 區塊元素就算設定了寬度，也會占用一行 (會換行)
+- 區塊元素使用 F12 觀察預設會看到長寬，非區塊元素預設 auto x auto
